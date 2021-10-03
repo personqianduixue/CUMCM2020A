@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {一、}问题重述}{3}{section.1}%
+\contentsline {section}{\numberline {二、}问题分析}{5}{section.2}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一分析}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二分析}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三分析}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}问题四分析}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {三、}模型假设}{6}{section.3}%
+\contentsline {section}{\numberline {四、}符号说明}{6}{section.4}%
+\contentsline {section}{\numberline {五、}模型的建立和求解}{6}{section.5}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}炉内温度随位置的变化}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}电路板上一维热传导模型的建立}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}有限差分法求解热方程}{8}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}模型未知参数的确定}{9}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}问题一的求解}{10}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}6}问题二模型的建立}{11}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}7}变范围搜索策略}{12}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}8}问题3模型的建立}{13}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}9}遗传算法求解问题3单目标规划}{14}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}10}问题4模型的建立}{16}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}11}分层序列法}{17}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}12}使用结合分层序列法的遗传算法求解问题4}{17}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}13}问题4求解结果}{17}{subsection.5.13}%
+\contentsline {section}{\numberline {六、}灵敏性分析}{19}{section.6}%
+\contentsline {section}{\numberline {七、}模型的评价}{20}{section.7}%
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的优点}{20}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的缺点}{20}{subsection.7.2}%
+\contentsline {section}{参考文献}{20}{section*.20}%
+\contentsline {section}{附录 \numberline {A}代码文件列表}{21}{appendix.a.A}%
+\contentsline {section}{附录 \numberline {B}代码}{21}{appendix.a.B}%
+\contentsfinish 
